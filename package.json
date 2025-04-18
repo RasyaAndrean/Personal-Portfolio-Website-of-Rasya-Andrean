@@ -1,0 +1,7 @@
+{
+  "name": "Personal-Portfolio-Website-of-Rasya-Andrean",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  }
+}
